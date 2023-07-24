@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<records>
+	<record>
+		<text>diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat.</text>
+		<numberrange>2</numberrange>
+		<country>United States</country>
+		<email>eu.tellus.eu@icloud.couk</email>
+		<name>Rashad Marsh</name>
+	</record>
+	<record>
+		<text>malesuada fames ac turpis egestas. Aliquam fringilla cursus purus. Nullam</text>
+		<numberrange>6</numberrange>
+		<country>Turkey</country>
+		<email>elit@google.couk</email>
+		<name>Tanner Underwood</name>
+	</record>
+	<record>
+		<text>at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum</text>
+		<numberrange>8</numberrange>
+		<country>South Africa</country>
+		<email>tempus.scelerisque@hotmail.com</email>
+		<name>Oren Alexander</name>
+	</record>
+	<record>
+		<text>venenatis lacus. Etiam bibendum fermentum metus. Aenean sed pede nec</text>
+		<numberrange>1</numberrange>
+		<country>Turkey</country>
+		<email>a.ultricies@outlook.edu</email>
+		<name>Felix Peck</name>
+	</record>
+	<record>
+		<text>felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam lorem,</text>
+		<numberrange>5</numberrange>
+		<country>Ireland</country>
+		<email>luctus@protonmail.com</email>
+		<name>Xanthus Fletcher</name>
+	</record>
+</records>
